@@ -17,6 +17,6 @@ the last one.
   * rra : reverse rotate a - shift down all elements of stack a by 1. The last element becomes the first one.
 
 ## Compiling and running
-run ```make```. Execute pushswap with the list of number you want : ```./push_swap 4 8 5 1 2 3```
+run ```make``` Execute pushswap with the list of number you want : ```./push_swap 4 8 5 1 2 3```
 
 for checker : ```./push_swap 4 8 5 1 2 3 | ./checker 4 8 5 1 2 3```
